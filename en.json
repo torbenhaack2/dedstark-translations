@@ -1,0 +1,13 @@
+{
+    "WEBSITE_TITLE": "DED STARK - OFFICIAL WEBSITE",
+    "NAVBAR_HOME": "Home",
+    "NAVBAR_SHOP": "Shop",
+    "NAVBAR_MUSIC": "Music",
+    "NAVBAR_TOUR": "Tour",
+    "HOME_NEW_ARRIVALS": "NEW ARRIVALS",
+    "HOME_LATEST_RELEASE": "LATEST RELEASE",
+    "SHOP_COMING_SOON": "COMING SOON",
+    "ERROR_404_TITLE": "Oops!",
+    "ERROR_404_INFO": "The page you were looking for doesn't exist.",
+    "ERROR_404_GOBACK": "Go back to the homepage."
+}

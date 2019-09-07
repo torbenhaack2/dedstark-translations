@@ -1,0 +1,13 @@
+{
+    "WEBSITE_TITLE": "DED STARK - OFFIZIELLE WEBSEITE",
+    "NAVBAR_HOME": "Startseite",
+    "NAVBAR_SHOP": "Shop",
+    "NAVBAR_MUSIC": "Musik",
+    "NAVBAR_TOUR": "Tour",
+    "HOME_NEW_ARRIVALS": "NEU EINGETROFFEN",
+    "HOME_LATEST_RELEASE": "ZULETZT RELEASED",
+    "SHOP_COMING_SOON": "BALD VERFÜGBAR",
+    "ERROR_404_TITLE": "Uups!",
+    "ERROR_404_INFO": "Diese Seite existiert nicht.",
+    "ERROR_404_GOBACK": "Zurück zur Startseite."
+}
