@@ -12,9 +12,7 @@ ___
 ___
 
 ## Contributing
-
-Watch following YouTube-Playlist to learn how to contribute to this repository.
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+If you want to contribute to this project, please go over to our [Wiki](https://github.com/torbenhaack/dedstark-translations/wiki) and refer to the mentioned steps.
 
 ___
 
